@@ -1,6 +1,6 @@
 function fatorial(num) {
     if(num < 0){
-        console.log('Opcao Invalida')
+        console.log('Opção Inválida')
     } else if(num == 0){
         return 1
     } else {
